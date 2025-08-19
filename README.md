@@ -2,12 +2,12 @@
 <h1 align="center">Hi there! I'm Rohit</h1>
 ---
 <p align="center">
-  <img src="1https://github.com/anirudha-8/anirudha-8/raw/main/Ayanokoji.png" alt="Banner" width="800"/>
+  <img src="" alt="Banner" width="800"/>
 </p>
 
 
 <p align="center">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="[https://www.instagram.com/yourusername](https://www.instagram.com/rohit.bele.18?igsh=MXZxdWthZ3VxMDBlYQ==)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohit-bele" target="_blank">
