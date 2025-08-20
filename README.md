@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi there! I'm Rohit</h1>
----
+
 <p align="center">
-  <img src="" alt="Banner" width="800"/>
+  <!--   <img src="" alt="Banner" width="800"/> -->
+
 </p>
 
 
