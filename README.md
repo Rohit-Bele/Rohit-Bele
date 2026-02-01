@@ -38,19 +38,17 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Bele&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bele&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Bele&theme=radical" alt="GitHub Streak" />
 </p>
+
+
 
 
